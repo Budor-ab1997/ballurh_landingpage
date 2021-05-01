@@ -110,7 +110,7 @@ class MobileNavbar extends StatelessWidget {
                 width: 150,
                 height: 150,
                 image: AssetImage(
-                  'images/ballurh_logos.png',
+                  'assets/assets/images/ballurh_logos.png',
                 ),
               ),
               Row(

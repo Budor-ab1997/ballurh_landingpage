@@ -51,7 +51,7 @@ class LandingPage extends StatelessWidget {
                       width: 80,
                       height: 80,
                       image: AssetImage(
-                        'images/hot-beverage_2615.png',
+                        'hot-beverage_2615.png',
                       ),
                     ),
                   ],
